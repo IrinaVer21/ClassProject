@@ -30,9 +30,12 @@ public class GitHubClassPractice {
 		 */
 		
 		int x=10;
-		int y=15;
-		System.out.println(x+y);
-			
+		int y=40;
+		int z=x+y;
+		System.out.println(x+z);
+		int a=z-30;
+			String name = "Irina";
+			System.out.println(name+"	"+a);
 	}
 
 }
