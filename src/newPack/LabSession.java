@@ -1,10 +1,10 @@
 package newPack;
 
-public class NewClassNewPack {
+public class LabSession {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-// some comments to be displayed
+
 	}
 
 }
